@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qe70EcGNI14=",
+  "success": true,
+  "projectFilePath": "/home/timur/Desktop/repositories/wfic/wfic.csproj",
+  "expectedPackageFiles": [
+    "/home/timur/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
