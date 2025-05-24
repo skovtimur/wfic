@@ -1,4 +1,4 @@
-![Example](https://github.com/TimurSkovorodnikov07/wfic/blob/main/example.png)
+![Example](https://github.com/skovtimur/wfic/blob/main/example.png)
 
 ## What you need:
 1) Nerd Fonts
